@@ -1,0 +1,33 @@
+.background-pic {
+  background-image: url("https://www.etq-amsterdam.com/wp-content/uploads/2019/07/moneygreen-1.jpg");
+  background-size: cover;
+  height: 700px;
+  margin-bottom: 50px;
+  color: white;
+
+}
+
+.ui.borderless.topmenu.menu {
+  border-style: none;
+  box-shadow: none;
+  background: none;
+}
+
+.ui.two.centered.row.grid.container {
+  margin-top: 300px;
+  color: white;
+
+}
+
+.white.item {
+  color: white !important;
+}
+
+.five.column.row {
+  justify-content: center;
+  color: #666666;
+}
+
+.three.column.row {
+  margin-bottom: 50px;
+}
